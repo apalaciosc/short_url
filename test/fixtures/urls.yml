@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  original_url: MyString
+  short_url: MyString
+  date_expiration: 2019-03-14 20:04:25
+
+two:
+  original_url: MyString
+  short_url: MyString
+  date_expiration: 2019-03-14 20:04:25
